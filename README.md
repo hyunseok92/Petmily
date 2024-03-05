@@ -1,4 +1,4 @@
-# 최웅렬 첫번째 팀 프로젝트 : PETMILY
+# 김현석 첫번째 팀 프로젝트 : PETMILY
 
 ### [ PETMILY (반려동물 시설 종합 정보 플랫폼) ](https://www.petmily.com/)
 
