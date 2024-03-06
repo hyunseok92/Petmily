@@ -1,12 +1,13 @@
 # 김현석 첫번째 팀 프로젝트 : PETMILY
 
 ### [ PETMILY (반려동물 시설 종합 정보 플랫폼) ]
+![메인유저](https://github.com/hyunseok92/Petmily/assets/143330992/ee6448e5-a012-4d36-92ca-b4e8a9025583)
 
 
 
 ## 프로젝트 개발 기간 및 수행 인원
 > * 개발 기간 : 23.07.31 ~ 23.08.31(5주)
-> * 수행 인원 : 4명
+> * 수행 인원 : 5명
 
 ## 프로젝트 담당 역할
 >역할 및 담당 기능
@@ -57,6 +58,8 @@
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
 <strong> - 나의 펫 정보</strong>
+  
+![펫등록](https://github.com/hyunseok92/Petmily/assets/143330992/6f00396f-2207-4a4e-9218-6079f1b8cbf1)
 
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/e9fba809-f574-4649-8a7e-7b2051f54121)
 
