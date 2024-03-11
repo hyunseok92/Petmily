@@ -3,7 +3,9 @@
 ### [ PETMILY (반려동물 시설 종합 정보 플랫폼) ]
 ![메인유저](https://github.com/hyunseok92/Petmily/assets/143330992/ee6448e5-a012-4d36-92ca-b4e8a9025583)
 
-
+<h1><a href="https://www.canva.com/design/DAF_ME8V1R8/YK2mW_AbLvgz-cB843hUBQ/view?utm_content=DAF_ME8V1R8&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+[ 프로젝트 포트폴리오 링크 ]
+</a> <-- Click!</h1>
 
 ## 프로젝트 개발 기간 및 수행 인원
 > * 개발 기간 : 23.07.31 ~ 23.08.31(5주)
