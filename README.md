@@ -6,6 +6,14 @@
 <h1><a href="https://www.canva.com/design/DAF_ME8V1R8/YK2mW_AbLvgz-cB843hUBQ/view?utm_content=DAF_ME8V1R8&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 [ 프로젝트 포트폴리오 링크 ]
 </a> <-- Click!</h1>
+## Back-End 사용기술
+`Java` `MyBatis` `Oracle DB` `Apache Tomcat`
+
+## Front-End 사용기술
+`JavaScript` `jQuery` `Ajax` `JSON` `HTML5` `CSS3`
+
+## DB ERD Diagram
+![image](https://github.com/choiungryeol/petmily/assets/114320086/f4f7b022-82b0-4035-9e42-f2f3d64ee46a)
 
 ## 프로젝트 개발 기간 및 수행 인원
 > * 개발 기간 : 23.07.31 ~ 23.08.31(5주)
@@ -115,13 +123,6 @@
 <hr style="text-align:center; width:45%;">
 <br>
 
-## Back-End 사용기술
-`Java` `MyBatis` `Oracle DB` `Apache Tomcat`
 
-## Front-End 사용기술
-`JavaScript` `jQuery` `Ajax` `JSON` `HTML5` `CSS3`
-
-## DB ERD Diagram
-![image](https://github.com/choiungryeol/petmily/assets/114320086/f4f7b022-82b0-4035-9e42-f2f3d64ee46a)
 
 
